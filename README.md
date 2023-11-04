@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your_portfolio_screenshot.png" width="800" alt="Portfolio Screenshot">
+  <img src="Portfolio Screenshot.png" width="800" alt="Portfolio Screenshot">
 </p>
 
 # My Portfolio Website 🚀
