@@ -9,10 +9,10 @@
     font-family: "Poppins", Calibri, Tahoma, sans-serif;
 }
 :root{
-    --primaryColor:#1d242c;
-    --secondaryColor:#0176c3;
-    --main-Color:#68bcdf;
-    --text-color: #fafafa;
+    --primaryColor: #0D0D0D;
+    --secondaryColor:#000000;
+    --main-Color:#FFD700;
+    --text-color: #ffffff;
 }
 
 html{
@@ -258,7 +258,7 @@ span{
     font-size: 1.6rem;
     font-weight: bold;
     padding: 10px 0;
-    color: var(--text-color);
+    color: #0D0D0D;
 }
 
 .skill_box .skill_bar{
@@ -316,7 +316,7 @@ span{
 }
 
 .skill_box .tooltip{
-    color: var(--text-color);
+    color: #f5f5f5;
     position: absolute;
     right: -14px;
     top: -23px;
@@ -408,17 +408,18 @@ form button:hover{
 
 .footer_text p{
     font-size: 1.6rem;
+    color: #0D0D0D;
 }
 
 .footer_icon a{
-    color: var(--text-color);
+    color: var(--primaryColor);
     display: inline-flex;
     justify-content: center;
     align-items: center;
     width: 4rem;
     height: 4rem;
     background: transparent;
-    border: .2rem solid var(--text-color);
+    border: .2rem solid var(--primaryColor);
     border-radius: 50%;
     font-size: 2rem;
     margin: .5rem .5rem .5rem 0;
